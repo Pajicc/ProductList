@@ -1,0 +1,44 @@
+
+{
+  "Items": [
+    {
+      "ItemID": 13809644,
+      "GUID": "6B8CC6F5-3F47-47B1-BC16-E8589259D96B",
+      "Name": "Chicken",
+      "imageUrl": "https://cdn2.zayconfresh.com/photos/products/chicken-image1jpg",
+      "Notes": "Fresh chicked straign from farm. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "DisplayQuantity": "1 lb",
+      "Department": "Poultry",
+      "IsChecked": null,
+      "LocalStatus": "UNMODIFIED",
+      "BigOvenObject": null,
+      "ThirdPartyURL": null
+    },
+    {
+      "ItemID": 13809645,
+      "GUID": "9636EFE8-3770-47D1-B641-EAF9FB78FAEF",
+      "Name": "Blueberries",
+      "imageUrl" : "https://draxe.com/wp-content/uploads/2014/07/BlueberryBenefitHeader.jpg",
+      "Notes": "Fresh blueberries. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "DisplayQuantity": "2 pints",
+      "Department": "Produce",
+      "IsChecked": null,
+      "LocalStatus": "UNMODIFIED",
+      "BigOvenObject": null,
+      "ThirdPartyURL": null
+    },
+    {
+      "ItemID": 13809645,
+      "GUID": "9636EFE8-3770-47D1-B641-EAF9FB78FAEF",
+      "Name": "Strawberries",
+      "imageUrl": "https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/strawberries-1.jpg?itok=oDOmkQK-",
+      "Notes": "Fresh Strawberries. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "DisplayQuantity": "2 pints",
+      "Department": "Produce",
+      "IsChecked": null,
+      "LocalStatus": "UNMODIFIED",
+      "BigOvenObject": null,
+      "ThirdPartyURL": null
+    }
+  ]
+}
